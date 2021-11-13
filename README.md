@@ -20,9 +20,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=float-square&logo=Python&logoColor=white" align='left'/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=float-square&logo=PHP&logoColor=white" align='left'/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=float-square&logo=Spring&logoColor=white" align='left'/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=float-square&logo=Oracle&logoColor=white" align='left'/>
-
-#<img src="https://img.shields.io/badge/MySQL-4479A1?style=float-square&logo=MySQL&logoColor=white" align='left'/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=float-square&logo=Oracle&logoColor=white" align='left'/>   
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=float-square&logo=MySQL&logoColor=white" align='left'/>  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=float-square&logo=Linux&logoColor=black" align='left'/>
 
 
