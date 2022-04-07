@@ -1,4 +1,4 @@
-### 준비중
+<!-- ### 준비중
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=float-square&logo=HTML5&logoColor=white" align='left'/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=float-square&logo=HTML5&logoColor=white" align='left'/>
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=float-square&logo=Spring&logoColor=white" align='left'/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=float-square&logo=Oracle&logoColor=white" align='left'/>   
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=float-square&logo=MySQL&logoColor=white" align='left'/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=float-square&logo=Linux&logoColor=black" align='left'/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=float-square&logo=Linux&logoColor=black" align='left'/> -->
 
 
 
